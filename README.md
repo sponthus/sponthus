@@ -4,5 +4,14 @@ My name is Sarah. I was originally a midwife, and my interest for genetics made 
 
 Currently:
 - 📓 Studying at [42 School (Lyon)](https://42lyon.fr/) - [Expert in Information Technology Architecture](https://www.francecompetences.fr/recherche/rncp/39774/)
-- 🔭 Currently doing an internship in bio-informatics, research & development
-- 🌱 Learning about data representation (dashboards) and pipelines.
+- 🔭 Currently doing an internship in pharmaceutical bio-informatics, research & development
+- 🌱 Learning about pipelines and next generation sequencing analysis methods
+
+Professional projects:
+- Data analysis: visualization, dashboards with [Plotly Dash](https://dash.plotly.com/)
+
+School projects:
+- [ft_transcendance](/ft_transcendance): A website and its architecture to play Pong - with [endoliam](https://github.com/zonbodiggs), [m-bogey](https://github.com/m-bogey), [cimeries11421](https://github.com/Cimeries11421)
+- [IRC](/IRC): Recreate from scratch an IRC server - with [endoliam](https://github.com/zonbodiggs)
+- [Inception](/Inception): Build from scratch a tiny infrastructure with different services to host a website
+- [cub3d](/cub3d): Create a 3D dynamic view in a maze - with [endoliam](https://github.com/zonbodiggs)
