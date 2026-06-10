@@ -11,7 +11,7 @@ Professional projects:
 - Data analysis: visualization, dashboards with [Plotly Dash](https://dash.plotly.com/)
 
 School projects:
-- [ft_transcendance](/ft_transcendance): A website and its architecture to play Pong - with [endoliam](https://github.com/zonbodiggs), [m-bogey](https://github.com/m-bogey), [cimeries11421](https://github.com/Cimeries11421)
-- [IRC](/IRC): Recreate from scratch an IRC server - with [endoliam](https://github.com/zonbodiggs)
-- [Inception](/Inception): Build from scratch a tiny infrastructure with different services to host a website
-- [cub3d](/cub3d): Create a 3D dynamic view in a maze - with [endoliam](https://github.com/zonbodiggs)
+- [ft_transcendance](https://github.com/sponthus/ft_transcendance): A website and its architecture to play Pong - with [endoliam](https://github.com/zonbodiggs), [m-bogey](https://github.com/m-bogey), [cimeries11421](https://github.com/Cimeries11421)
+- [IRC](https://github.com/sponthus/IRC): Recreate from scratch an IRC server - with [endoliam](https://github.com/zonbodiggs)
+- [Inception](https://github.com/sponthus/Inception): Build from scratch a tiny infrastructure with different services to host a website
+- [cub3d](https://github.com/sponthus/cub3d): Create a 3D dynamic view in a maze - with [endoliam](https://github.com/zonbodiggs)
